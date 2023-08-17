@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F75BF93C-5560-43E7-BF47-263492E859F9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TclassLibrary</RootNamespace>
+    <AssemblyName>TclassLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.35\lib\net461\Dapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Dapper.Transaction, Version=2.0.35.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.Transaction.2.0.35.2\lib\net461\Dapper.Transaction.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp, Version=2.0.4666.42387, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCVSharp.2.4.0.1\lib\OpenCvSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.Blob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCVSharp.2.4.0.1\lib\OpenCvSharp.Blob.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.CPlusPlus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCVSharp.2.4.0.1\lib\OpenCvSharp.CPlusPlus.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.DebuggerVisualizers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCVSharp.2.4.0.1\lib\OpenCvSharp.DebuggerVisualizers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCVSharp.2.4.0.1\lib\OpenCvSharp.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.Gpu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCVSharp.2.4.0.1\lib\OpenCvSharp.Gpu.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.MachineLearning, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCVSharp.2.4.0.1\lib\OpenCvSharp.MachineLearning.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp.UserInterface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCVSharp.2.4.0.1\lib\OpenCvSharp.UserInterface.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.6.10.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.6.10\lib\net452\RestSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Absence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Absence.designer.cs">
+      <DependentUpon>Absence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="accidents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accidents.designer.cs">
+      <DependentUpon>accidents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountStatus.designer.cs">
+      <DependentUpon>AccountStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acctEnquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acctEnquiry.designer.cs">
+      <DependentUpon>acctEnquiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acPay.designer.cs">
+      <DependentUpon>acPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acRec.designer.cs">
+      <DependentUpon>acRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addAcct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addAcct.Designer.cs">
+      <DependentUpon>addAcct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgeReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AgeReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="alowance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alowance.Designer.cs">
+      <DependentUpon>alowance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="appRoval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="appRoval.Designer.cs">
+      <DependentUpon>appRoval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apraisal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apraisal.designer.cs">
+      <DependentUpon>Apraisal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance.designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bioDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bioDetails.Designer.cs">
+      <DependentUpon>bioDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bnk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bnk.Designer.cs">
+      <DependentUpon>bnk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bonding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bonding.Designer.cs">
+      <DependentUpon>Bonding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="career.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="career.Designer.cs">
+      <DependentUpon>career.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChartAcc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChartAcc.Designer.cs">
+      <DependentUpon>ChartAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chgPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chgPassword.designer.cs">
+      <DependentUpon>chgPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="closPayroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="closPayroll.Designer.cs">
+      <DependentUpon>closPayroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company.Designer.cs">
+      <DependentUpon>Company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dashBoard.designer.cs">
+      <DependentUpon>dashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dependents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dependents.designer.cs">
+      <DependentUpon>dependents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Discipline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discipline.Designer.cs">
+      <DependentUpon>Discipline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emplyee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emplyee.designer.cs">
+      <DependentUpon>emplyee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExitService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExitService.Designer.cs">
+      <DependentUpon>ExitService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindClient.Designer.cs">
+      <DependentUpon>FindClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fixrbal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fixrbal.Designer.cs">
+      <DependentUpon>fixrbal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenLedgerMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenLedgerMgt.designer.cs">
+      <DependentUpon>GenLedgerMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlDataSet.cs" />
+    <Compile Include="GlDataSet.designer.cs">
+      <DependentUpon>GlDataSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="globalvar.cs" />
+    <Compile Include="grievance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grievance.Designer.cs">
+      <DependentUpon>grievance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="holidayn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="holidayn.Designer.cs">
+      <DependentUpon>holidayn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryControl.designer.cs">
+      <DependentUpon>InventoryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobDefinition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobDefinition.Designer.cs">
+      <DependentUpon>JobDefinition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Journal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Journal.designer.cs">
+      <DependentUpon>Journal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="livApply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="livApply.Designer.cs">
+      <DependentUpon>livApply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lpoAppr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lpoAppr.Designer.cs">
+      <DependentUpon>lpoAppr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="myLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="myLocation.Designer.cs">
+      <DependentUpon>myLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAccount.Designer.cs">
+      <DependentUpon>NewAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newfinperiod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newfinperiod.Designer.cs">
+      <DependentUpon>newfinperiod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="onecode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="onecode.Designer.cs">
+      <DependentUpon>onecode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="othcontr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="othcontr.Designer.cs">
+      <DependentUpon>othcontr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="overTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="overTime.Designer.cs">
+      <DependentUpon>overTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="partSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="partSalary.Designer.cs">
+      <DependentUpon>partSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayPara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayPara.Designer.cs">
+      <DependentUpon>PayPara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="procManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="procManagement.Designer.cs">
+      <DependentUpon>procManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductDef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductDef.designer.cs">
+      <DependentUpon>ProductDef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reconcile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reconcile.Designer.cs">
+      <DependentUpon>reconcile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPTrialBalance.cs" />
+    <Compile Include="Reqappr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reqappr.Designer.cs">
+      <DependentUpon>Reqappr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Requisition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Requisition.Designer.cs">
+      <DependentUpon>Requisition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reversal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reversal.designer.cs">
+      <DependentUpon>Reversal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="runPayroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="runPayroll.Designer.cs">
+      <DependentUpon>runPayroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salAdvance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salAdvance.Designer.cs">
+      <DependentUpon>salAdvance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffAllowance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffAllowance.Designer.cs">
+      <DependentUpon>staffAllowance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffLoans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffLoans.Designer.cs">
+      <DependentUpon>staffLoans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffSubs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffSubs.Designer.cs">
+      <DependentUpon>staffSubs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockTransfer.Designer.cs">
+      <DependentUpon>StockTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="succPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="succPlan.Designer.cs">
+      <DependentUpon>succPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppliers.Designer.cs">
+      <DependentUpon>Suppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThreeCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThreeCode.Designer.cs">
+      <DependentUpon>ThreeCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="training.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="training.designer.cs">
+      <DependentUpon>training.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tranupdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tranupdate.designer.cs">
+      <DependentUpon>tranupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trn_institute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trn_institute.Designer.cs">
+      <DependentUpon>trn_institute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="twocode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="twocode.Designer.cs">
+      <DependentUpon>twocode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userManagement.Designer.cs">
+      <DependentUpon>userManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebCam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebCam.Designer.cs">
+      <DependentUpon>WebCam.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Absence.resx">
+      <DependentUpon>Absence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="accidents.resx">
+      <DependentUpon>accidents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountStatus.resx">
+      <DependentUpon>AccountStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acctEnquiry.resx">
+      <DependentUpon>acctEnquiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acPay.resx">
+      <DependentUpon>acPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acRec.resx">
+      <DependentUpon>acRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addAcct.resx">
+      <DependentUpon>addAcct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgeReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AgeReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alowance.resx">
+      <DependentUpon>alowance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="appRoval.resx">
+      <DependentUpon>appRoval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apraisal.resx">
+      <DependentUpon>Apraisal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bioDetails.resx">
+      <DependentUpon>bioDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bnk.resx">
+      <DependentUpon>bnk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bonding.resx">
+      <DependentUpon>Bonding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="career.resx">
+      <DependentUpon>career.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartAcc.resx">
+      <DependentUpon>ChartAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chgPassword.resx">
+      <DependentUpon>chgPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="closPayroll.resx">
+      <DependentUpon>closPayroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company.resx">
+      <DependentUpon>Company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dashBoard.resx">
+      <DependentUpon>dashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dependents.resx">
+      <DependentUpon>dependents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discipline.resx">
+      <DependentUpon>Discipline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emplyee.resx">
+      <DependentUpon>emplyee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExitService.resx">
+      <DependentUpon>ExitService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindClient.resx">
+      <DependentUpon>FindClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fixrbal.resx">
+      <DependentUpon>fixrbal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenLedgerMgt.resx">
+      <DependentUpon>GenLedgerMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grievance.resx">
+      <DependentUpon>grievance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="holidayn.resx">
+      <DependentUpon>holidayn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryControl.resx">
+      <DependentUpon>InventoryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobDefinition.resx">
+      <DependentUpon>JobDefinition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Journal.resx">
+      <DependentUpon>Journal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="livApply.resx">
+      <DependentUpon>livApply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lpoAppr.resx">
+      <DependentUpon>lpoAppr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="myLocation.resx">
+      <DependentUpon>myLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAccount.resx">
+      <DependentUpon>NewAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newfinperiod.resx">
+      <DependentUpon>newfinperiod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="onecode.resx">
+      <DependentUpon>onecode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="othcontr.resx">
+      <DependentUpon>othcontr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="overTime.resx">
+      <DependentUpon>overTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partSalary.resx">
+      <DependentUpon>partSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayPara.resx">
+      <DependentUpon>PayPara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="procManagement.resx">
+      <DependentUpon>procManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductDef.resx">
+      <DependentUpon>ProductDef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reconcile.resx">
+      <DependentUpon>reconcile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reqappr.resx">
+      <DependentUpon>Reqappr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Requisition.resx">
+      <DependentUpon>Requisition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reversal.resx">
+      <DependentUpon>Reversal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="runPayroll.resx">
+      <DependentUpon>runPayroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salAdvance.resx">
+      <DependentUpon>salAdvance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffAllowance.resx">
+      <DependentUpon>staffAllowance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffLoans.resx">
+      <DependentUpon>staffLoans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffSubs.resx">
+      <DependentUpon>staffSubs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockTransfer.resx">
+      <DependentUpon>StockTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="succPlan.resx">
+      <DependentUpon>succPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suppliers.resx">
+      <DependentUpon>Suppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThreeCode.resx">
+      <DependentUpon>ThreeCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="training.resx">
+      <DependentUpon>training.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tranupdate.resx">
+      <DependentUpon>tranupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trn_institute.resx">
+      <DependentUpon>trn_institute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="twocode.resx">
+      <DependentUpon>twocode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userManagement.resx">
+      <DependentUpon>userManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebCam.resx">
+      <DependentUpon>WebCam.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="libOpenCvSharpExtern.so" />
+    <None Include="OpenCvSharp.Blob.dll.config" />
+    <None Include="OpenCvSharp.CPlusPlus.dll.config" />
+    <None Include="OpenCvSharp.dll.config" />
+    <None Include="OpenCvSharp.MachineLearning.dll.config" />
+    <None Include="packages.config" />
+    <None Include="Resources\obama.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OpenCvSharpExtern.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

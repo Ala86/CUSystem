@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DepositDataSet" targetNamespace="http://tempuri.org/DepositDataSet.xsd" xmlns:mstns="http://tempuri.org/DepositDataSet.xsd" xmlns="http://tempuri.org/DepositDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DepositDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DepositDataSet" msprop:Generator_UserDSName="DepositDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CashReceiptDataTable" msprop:Generator_TableClassName="CashReceiptDataTableDataTable" msprop:Generator_TableVarName="tableCashReceiptDataTable" msprop:Generator_TablePropName="CashReceiptDataTable" msprop:Generator_RowDeletingName="CashReceiptDataTableRowDeleting" msprop:Generator_RowChangingName="CashReceiptDataTableRowChanging" msprop:Generator_RowEvHandlerName="CashReceiptDataTableRowChangeEventHandler" msprop:Generator_RowDeletedName="CashReceiptDataTableRowDeleted" msprop:Generator_UserTableName="CashReceiptDataTable" msprop:Generator_RowChangedName="CashReceiptDataTableRowChanged" msprop:Generator_RowEvArgName="CashReceiptDataTableRowChangeEvent" msprop:Generator_RowClassName="CashReceiptDataTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="autorecit" msprop:Generator_ColumnVarNameInTable="columnautorecit" msprop:Generator_ColumnPropNameInRow="autorecit" msprop:Generator_ColumnPropNameInTable="autorecitColumn" msprop:Generator_UserColumnName="autorecit" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="ccustcode" msprop:Generator_ColumnVarNameInTable="columnccustcode" msprop:Generator_ColumnPropNameInRow="ccustcode" msprop:Generator_ColumnPropNameInTable="ccustcodeColumn" msprop:Generator_UserColumnName="ccustcode" type="xs:string" default="&quot;&quot;" minOccurs="0" />
+              <xs:element name="ctrandesc" msprop:Generator_ColumnVarNameInTable="columnctrandesc" msprop:Generator_ColumnPropNameInRow="ctrandesc" msprop:Generator_ColumnPropNameInTable="ctrandescColumn" msprop:Generator_UserColumnName="ctrandesc" type="xs:string" minOccurs="0" />
+              <xs:element name="ntranamnt" msprop:Generator_ColumnVarNameInTable="columnntranamnt" msprop:Generator_ColumnPropNameInRow="ntranamnt" msprop:Generator_ColumnPropNameInTable="ntranamntColumn" msprop:Generator_UserColumnName="ntranamnt" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ShortReceipt" msprop:Generator_TableClassName="ShortReceiptDataTable" msprop:Generator_TableVarName="tableShortReceipt" msprop:Generator_TablePropName="ShortReceipt" msprop:Generator_RowDeletingName="ShortReceiptRowDeleting" msprop:Generator_RowChangingName="ShortReceiptRowChanging" msprop:Generator_RowEvHandlerName="ShortReceiptRowChangeEventHandler" msprop:Generator_RowDeletedName="ShortReceiptRowDeleted" msprop:Generator_UserTableName="ShortReceipt" msprop:Generator_RowChangedName="ShortReceiptRowChanged" msprop:Generator_RowEvArgName="ShortReceiptRowChangeEvent" msprop:Generator_RowClassName="ShortReceiptRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="autoreceipt" msprop:Generator_ColumnVarNameInTable="columnautoreceipt" msprop:Generator_ColumnPropNameInRow="autoreceipt" msprop:Generator_ColumnPropNameInTable="autoreceiptColumn" msprop:Generator_UserColumnName="autoreceipt" type="xs:string" minOccurs="0" />
+              <xs:element name="ccustcode" msprop:Generator_ColumnVarNameInTable="columnccustcode" msprop:Generator_ColumnPropNameInRow="ccustcode" msprop:Generator_ColumnPropNameInTable="ccustcodeColumn" msprop:Generator_UserColumnName="ccustcode" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RevenueData" msprop:Generator_TableClassName="RevenueDataDataTable" msprop:Generator_TableVarName="tableRevenueData" msprop:Generator_TablePropName="RevenueData" msprop:Generator_RowDeletingName="RevenueDataRowDeleting" msprop:Generator_RowChangingName="RevenueDataRowChanging" msprop:Generator_RowEvHandlerName="RevenueDataRowChangeEventHandler" msprop:Generator_RowDeletedName="RevenueDataRowDeleted" msprop:Generator_UserTableName="RevenueData" msprop:Generator_RowChangedName="RevenueDataRowChanged" msprop:Generator_RowEvArgName="RevenueDataRowChangeEvent" msprop:Generator_RowClassName="RevenueDataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="membername" msprop:Generator_ColumnVarNameInTable="columnmembername" msprop:Generator_ColumnPropNameInRow="membername" msprop:Generator_ColumnPropNameInTable="membernameColumn" msprop:Generator_UserColumnName="membername" type="xs:string" minOccurs="0" />
+              <xs:element name="ctrandesc" msprop:Generator_ColumnVarNameInTable="columnctrandesc" msprop:Generator_ColumnPropNameInRow="ctrandesc" msprop:Generator_ColumnPropNameInTable="ctrandescColumn" msprop:Generator_UserColumnName="ctrandesc" type="xs:string" minOccurs="0" />
+              <xs:element name="npaid" msprop:Generator_ColumnVarNameInTable="columnnpaid" msprop:Generator_ColumnPropNameInRow="npaid" msprop:Generator_ColumnPropNameInTable="npaidColumn" msprop:Generator_UserColumnName="npaid" type="xs:decimal" minOccurs="0" />
+              <xs:element name="dpostdate" msprop:Generator_ColumnVarNameInTable="columndpostdate" msprop:Generator_ColumnPropNameInRow="dpostdate" msprop:Generator_ColumnPropNameInTable="dpostdateColumn" msprop:Generator_UserColumnName="dpostdate" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CashReceiptSummary" msprop:Generator_TableClassName="CashReceiptSummaryDataTable" msprop:Generator_TableVarName="tableCashReceiptSummary" msprop:Generator_TablePropName="CashReceiptSummary" msprop:Generator_RowDeletingName="CashReceiptSummaryRowDeleting" msprop:Generator_RowChangingName="CashReceiptSummaryRowChanging" msprop:Generator_RowEvHandlerName="CashReceiptSummaryRowChangeEventHandler" msprop:Generator_RowDeletedName="CashReceiptSummaryRowDeleted" msprop:Generator_UserTableName="CashReceiptSummary" msprop:Generator_RowChangedName="CashReceiptSummaryRowChanged" msprop:Generator_RowEvArgName="CashReceiptSummaryRowChangeEvent" msprop:Generator_RowClassName="CashReceiptSummaryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="srv_id" msprop:Generator_ColumnVarNameInTable="columnsrv_id" msprop:Generator_ColumnPropNameInRow="srv_id" msprop:Generator_ColumnPropNameInTable="srv_idColumn" msprop:Generator_UserColumnName="srv_id" type="xs:short" minOccurs="0" />
+              <xs:element name="srv_centre" msprop:Generator_ColumnVarNameInTable="columnsrv_centre" msprop:Generator_ColumnPropNameInRow="srv_centre" msprop:Generator_ColumnPropNameInTable="srv_centreColumn" msprop:Generator_UserColumnName="srv_centre" type="xs:string" minOccurs="0" />
+              <xs:element name="dpaid" msprop:Generator_ColumnVarNameInTable="columndpaid" msprop:Generator_ColumnPropNameInRow="dpaid" msprop:Generator_ColumnPropNameInTable="dpaidColumn" msprop:Generator_UserColumnName="dpaid" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

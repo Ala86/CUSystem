@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+
+ <GCMYSERVER>
+    <gnCompid>30</gnCompid>
+    <gcComname>SOFORA CCU Remote</gcComname>
+    <gcServername>ITMANAGERALA</gcServername>
+    <gcsusername>sa</gcsusername>
+    <gcDatabaseName>NA_SOF001</gcDatabaseName>
+    <gcspassword>Whatever4999!</gcspassword>  
+  </GCMYSERVER>
+
+ <GCMYSERVER>
+    <gnCompid>30</gnCompid>
+    <gcComname>GRA Local</gcComname>
+    <gcServername>ITMANAGERALA</gcServername>
+    <gcsusername>sa</gcsusername>
+    <gcDatabaseName>NA_GRA001</gcDatabaseName>
+    <gcspassword>Whatever4999!</gcspassword> 
+ </GCMYSERVER>
+
+ <GCMYSERVER>
+    <gnCompid>30</gnCompid>
+    <gcComname>SSHFC</gcComname>
+    <gcServername>ITMANAGERALA</gcServername>
+    <gcsusername>sa</gcsusername>
+    <gcDatabaseName>NA_SSH001</gcDatabaseName>
+    <gcspassword>Whatever4999!</gcspassword>  
+  </GCMYSERVER>
+
+</Table>
+

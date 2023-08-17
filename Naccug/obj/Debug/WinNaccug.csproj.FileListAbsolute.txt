@@ -1,0 +1,462 @@
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\bin\Debug\WinTcare.exe.config
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\bin\Debug\WinTcare.exe
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\bin\Debug\WinTcare.pdb
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\bin\Debug\TclassLibrary.dll
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\bin\Debug\TclassLibrary.pdb
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinNaccug.csprojResolveAssemblyReference.cache
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Absence.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.accidents.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.acctEnquiry.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.acPay.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.acRec.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.AddRoomFeatures.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.alowance.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.app_q.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Apraisal.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.apraisaln.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Attendance.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.band.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.bioDetails.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.bouquets.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.branch.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.career.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.ChartAcc.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.CheckIn.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.CheckOut.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.chgPassword.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Clearance.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.ClientTransfer.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.closPayroll.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Consultation.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.CoverManagement.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.coversetup.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.DeathConfirm.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.dependents.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.deposits.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Discipline.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.doctors.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.DrugDispense.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.employees.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.emplyee.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.ExitService.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.FindClient.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.glman.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.grievance.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.holidayn.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.IndInvoice.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.InpatDischarge.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.InsInvoice.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.InventoryControl.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Journal.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.LabTest.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.livApply.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.LivAppr.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.loans.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.LoginScreen.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.lpoAppr.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.MainSwitch.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.MedHistory.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.MedicalCover.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.medRegister.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.NewAccount.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.NewClientRegistration.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.LogonScreen.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.MainMenu.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.newfinperiod.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.NursingHome.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.opdDischarge.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.opttest.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Orders.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.othcontr.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.overTime.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.partSalary.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Paymt.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Properties.Resources.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.PurchaseDelivery.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.PurchaseOrder.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.radtemplate.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.RadTest.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.reconcile.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Reqappr.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Requisition.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.rfq.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.RoomFeatures.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.RoomSetup.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.runPayroll.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.salAdvance.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.sched.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Scorders.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.selfService.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.ServiceDefine.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.spcselect.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Specimen.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.staff.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.staffAllowance.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.staffLoans.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.staffSubs.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.staffTrain.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.StockTransfer.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.succPlan.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.tbscreen.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.ThreeCode.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.todayList.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.tranupdate.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Triage.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.trn_institute.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.userManagement.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.wardSelect.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinNaccug.csproj.GenerateResource.Cache
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.exe
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.pdb
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\CUsystem.memberCreation.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.Members.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\TclassLibrary.dll
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\TclassLibrary.pdb
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinNaccug.csprojResolveAssemblyReference.cache
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Absence.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.accidents.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.acctEnquiry.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.acPay.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.acRec.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.AddRoomFeatures.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.alowance.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.app_q.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Apraisal.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.apraisaln.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Attendance.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.band.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.bioDetails.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.bouquets.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.branch.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.career.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.ChartAcc.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.CheckIn.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.CheckOut.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.chgPassword.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Clearance.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.ClientTransfer.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.closPayroll.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Consultation.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.CoverManagement.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.coversetup.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.DeathConfirm.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.dependents.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.deposits.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Discipline.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.doctors.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.DrugDispense.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.employees.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.emplyee.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.ExitService.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.FindClient.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.glman.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.grievance.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.holidayn.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.IndInvoice.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.InpatDischarge.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.InsInvoice.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.InventoryControl.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Journal.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.LabTest.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.livApply.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.LivAppr.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.loans.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.LoginScreen.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.lpoAppr.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.MainSwitch.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.MedHistory.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.MedicalCover.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.medRegister.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Members.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.NewAccount.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.NewClientRegistration.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.LogonScreen.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.MainMenu.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.newfinperiod.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.NursingHome.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.opdDischarge.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.opttest.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Orders.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.othcontr.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.overTime.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.partSalary.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Paymt.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.PayrollSetup.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Properties.Resources.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.PurchaseDelivery.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.PurchaseOrder.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.radtemplate.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.RadTest.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.reconcile.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Reqappr.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Requisition.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.rfq.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.RoomFeatures.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.RoomSetup.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.runPayroll.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.salAdvance.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.sched.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Scorders.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.selfService.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.ServiceDefine.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.spcselect.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Specimen.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.staff.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.staffAllowance.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.staffLoans.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.staffSubs.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.staffTrain.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.StockTransfer.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.succPlan.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.tbscreen.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.ThreeCode.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.todayList.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.tranupdate.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Triage.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.trn_institute.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.userManagement.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.wardSelect.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinNaccug.csproj.GenerateResource.Cache
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\Naccug.exe.config
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\Naccug.exe
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\Naccug.pdb
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\Newtonsoft.Json.dll
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\RestSharp.dll
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\Newtonsoft.Json.xml
+D:\Software Solutions\C# Applications\CUsystem\Naccug\bin\Debug\RestSharp.xml
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.batchProcess.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.Company.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.employer.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.loanAmort.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.LoanApplication.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.loanApproval.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.loanGuarantor.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.memPayroll.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.myLocation.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.ProductDef.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.selecCU.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\Naccug.exe
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\Naccug.pdb
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.InterestCalculation.resources
+D:\Software Solutions\C# Applications\CUsystem\Naccug\obj\Debug\WinTcare.memberAttach.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Naccug.exe.config
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\Naccug.exe
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\Naccug.pdb
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Naccug.exe.manifest
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Naccug.application
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Naccug.exe
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Naccug.pdb
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\AForge.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\AForge.Imaging.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\AForge.Video.DirectShow.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\AForge.Video.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.Shared.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\FlashControlV71.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Newtonsoft.Json.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.Blob.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\RestSharp.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\TclassLibrary.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\ShockwaveFlashObjects.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\stdole.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\AForge.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\AForge.Imaging.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\AForge.Video.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\AForge.Video.DirectShow.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\Newtonsoft.Json.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.pdb
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.Blob.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\RestSharp.xml
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinNaccug.csprojResolveAssemblyReference.cache
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Absence.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.accidents.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.acctEnquiry.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.acPay.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.acRec.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.addAcct.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.AddRoomFeatures.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.alowance.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.app_q.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Apraisal.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.apraisaln.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Attendance.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.band.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.batchProcess.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.BatchSetup.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.bioDetails.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.bnk.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.bouquets.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.branch.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.career.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.CashManager.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.chargeoff.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Chart.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.ChartAcc.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.CheckIn.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.CheckOut.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.dashBoard.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.deposits.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Form1.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Form2.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Form3.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.FRMLoanShedule.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.glman.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Journal.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.loanAmort.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.LoanApplication.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.loanApproval.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\CUsystem.LoanChargeOff.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.LoanDisburse.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.loanGuarantor.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.loanReject.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.LoginScreen.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.MainMenuSample.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.MemberAcct.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.memberAttach.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.MemberClose.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Members.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.memPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.NewAccount.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.PayrollSetup.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.ProductDef.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.reconcile.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPAccounts.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPAgeAnalysis.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPAgeByAccount.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPauditTrail.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPBalanceSheet.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPBatchReport.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPChequeEnquiry.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Clearance.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.ClientTransfer.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.closPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Consultation.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.CoverManagement.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.coversetup.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.DeathConfirm.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.dependents.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Discipline.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.doctors.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.DrugDispense.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.employees.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.employer.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.emplyee.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.ExitService.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.grievance.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.holidayn.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.IndInvoice.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.InpatDischarge.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.InsInvoice.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.InterestCalculation.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.InventoryControl.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.LabTest.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.livApply.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.LivAppr.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.loans.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.lpoAppr.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.MainSwitch.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.MedHistory.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.MedicalCover.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.medRegister.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.myLocation.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.NewClientRegistration.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.LogonScreen.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.MainMenu.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.newfinperiod.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.NursingHome.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.opdDischarge.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.opttest.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Orders.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.othcontr.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.overTime.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.partSalary.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Paymt.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Properties.Resources.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.PurchaseDelivery.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.PurchaseOrder.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.radtemplate.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.RadTest.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPDetailedAging.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPGuarantors.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPIncomeStatement.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPJournalEnquiry.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPLoanBalances.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPLoanByValue.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPLoans.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPMemberByAccount.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPMemberReport.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPMemberStatement.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPSavingsBalances.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPSavingsByValue.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPTransactionEnquiry.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPTransactionListing.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.REPTrialBalance.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Reqappr.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Requisition.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.rfq.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.RoomFeatures.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.RoomSetup.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.runPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.salAdvance.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.sched.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Scorders.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.selecCU.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.selfService.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.ServiceDefine.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.SocialData.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.spcselect.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Specimen.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.staff.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.staffAllowance.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.staffLoans.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.staffSubs.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.staffTrain.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.StockTransfer.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.succPlan.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.tbscreen.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.ThreeCode.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.todayList.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.transfers.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.Triage.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.trn_institute.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.wardSelect.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.WebCamera.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinNaccug.csproj.GenerateResource.Cache
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\Naccug.exe.manifest
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\Naccug.application
+C:\Software Solutions\NACCUG\CUsystem\Naccug\bin\Debug\WhatsAppApi.dll
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.AccountClose.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.LoanGrantHist.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.PeriodicDues.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.updPayID.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.updPayroll_IDcs.resources
+C:\Software Solutions\NACCUG\CUsystem\Naccug\obj\Debug\WinTcare.WhatsAppForm.resources

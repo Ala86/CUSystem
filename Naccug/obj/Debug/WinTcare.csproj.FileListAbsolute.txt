@@ -1,0 +1,446 @@
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.AdminMenu.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTCare.LoginScreen.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.NewClientRegistration.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.LogonScreen.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.MainMenu.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.Properties.Resources.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.csproj.GenerateResource.Cache
+C:\software solutions\c#\WinTcare\WinTcare\bin\Debug\WinTcare.exe.config
+C:\software solutions\c#\WinTcare\WinTcare\bin\Debug\WinTcare.exe
+C:\software solutions\c#\WinTcare\WinTcare\bin\Debug\WinTcare.pdb
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.exe
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.pdb
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.csprojResolveAssemblyReference.cache
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.app_q.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.Consultation.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.Doctors.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.RadTest.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.Triage.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.MedicalCover.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.CheckIn.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.sched.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.LabTest.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.LabValidate.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.NewAccount.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.NewHrStaff.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.NewPayStaff.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.RadValidate.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.CheckOut.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.ClientBill.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.ClientTransfer.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.DeathConfirm.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.ClientReceipts.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.Journal.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.tranupdate.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.userManagement.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.acctEnquiry.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.DrugDispense.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.BlockSetup.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.WardSetup.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.RoomSetup.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.RoomFeatures.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.AddRoomFeatures.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.InventoryControl.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.OneCode.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.ThreeCode.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.TwoCode.resources
+C:\software solutions\c#\WinTcare\WinTcare\obj\Debug\WinTcare.StockTransfer.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\bin\Debug\WinTcare.exe.config
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.exe
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.pdb
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\bin\Debug\WinTcare.exe
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\bin\Debug\WinTcare.pdb
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.csprojResolveAssemblyReference.cache
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.acctEnquiry.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.AddRoomFeatures.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.app_q.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.BlockSetup.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.CheckIn.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.CheckOut.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ClientBill.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ClientReceipts.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ClientTransfer.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Consultation.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.DeathConfirm.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Doctors.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.DrugDispense.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.InventoryControl.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Journal.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LabTest.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LabValidate.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LoginScreen.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MainSwitch.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MedicalCover.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewAccount.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewClientRegistration.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LogonScreen.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MainMenu.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewHrStaff.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewPayStaff.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.OneCode.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Properties.Resources.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RadTest.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RadValidate.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RoomFeatures.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RoomSetup.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.sched.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.StockTransfer.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ThreeCode.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.tranupdate.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Triage.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.TwoCode.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.userManagement.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.WardSetup.resources
+C:\software solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.csproj.GenerateResource.Cache
+F:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\bin\Debug\WinTcare.exe.config
+F:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.exe
+F:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.pdb
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\bin\Debug\WinTcare.exe.config
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.exe
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.pdb
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.csprojResolveAssemblyReference.cache
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.acctEnquiry.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.AddRoomFeatures.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.AdminMenu.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.app_q.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.BlockSetup.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.CheckIn.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.CheckOut.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ClientBill.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ClientReceipts.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ClientTransfer.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Consultation.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.DeathConfirm.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Doctors.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.DrugDispense.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.InventoryControl.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Journal.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LabTest.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LabValidate.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LoginScreen.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MainSwitch.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MedicalCover.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewAccount.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewClientRegistration.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LogonScreen.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MainMenu.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewHrStaff.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewPayStaff.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.OneCode.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Properties.Resources.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RadTest.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RadValidate.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RoomFeatures.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RoomSetup.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.sched.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.StockTransfer.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ThreeCode.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.tranupdate.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Triage.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.TwoCode.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.userManagement.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.WardSetup.resources
+G:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.csproj.GenerateResource.Cache
+C:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Software Solutions\c # applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.csprojFakesResolveAssemblyReference.cache
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\bin\Debug\WinTcare.exe.config
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.exe
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.pdb
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.csprojResolveAssemblyReference.cache
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.acctEnquiry.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.AddRoomFeatures.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.app_q.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.CheckIn.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.CheckOut.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ClientTransfer.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Consultation.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.DeathConfirm.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.doctors.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.DrugDispense.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.InventoryControl.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Journal.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LabTest.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LoginScreen.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MainSwitch.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MedicalCover.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewAccount.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewClientRegistration.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LogonScreen.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MainMenu.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewHrStaff.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NewPayStaff.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.OneCode.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Properties.Resources.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RadTest.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RoomFeatures.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.RoomSetup.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.sched.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.StockTransfer.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ThreeCode.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.tranupdate.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Triage.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.TwoCode.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.userManagement.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.csproj.GenerateResource.Cache
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\bin\Debug\WinTcare.exe
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\bin\Debug\WinTcare.pdb
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Paymt.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.CoverManagement.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.IndInvoice.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.InsInvoice.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Specimen.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.opttest.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.NursingHome.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.acPay.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.acRec.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Clearance.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.deposits.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.InpatDischarge.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.MedHistory.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.opdDischarge.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Orders.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Absence.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.accidents.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Apraisal.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Attendance.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.bioDetails.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.career.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.chgPassword.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.closPayroll.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.dependents.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Discipline.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.employees.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.emplyee.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.ExitService.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.glman.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.grievance.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.livApply.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.LivAppr.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.lpoAppr.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.medRegister.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.overTime.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.partSalary.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.PurchaseDelivery.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.PurchaseOrder.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.reconcile.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Reqappr.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Requisition.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.rfq.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.runPayroll.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.salAdvance.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.Scorders.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.selfService.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.staff.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.staffAllowance.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.staffLoans.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.staffSubs.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.staffTrain.resources
+C:\Software Solutions\C# Applications\WinTcare 2015.08.08\WinTcare\obj\Debug\WinTcare.succPlan.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\WinTcare.exe.config
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.exe
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.pdb
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Absence.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.accidents.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.acctEnquiry.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.acPay.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.acRec.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.AddRoomFeatures.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.app_q.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Apraisal.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Attendance.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.bioDetails.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.career.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.CheckIn.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.CheckOut.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.chgPassword.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Clearance.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ClientTransfer.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.closPayroll.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Consultation.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.CoverManagement.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.DeathConfirm.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.dependents.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.deposits.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Discipline.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.doctors.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.DrugDispense.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.employees.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.emplyee.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ExitService.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.glman.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.grievance.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.IndInvoice.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.InpatDischarge.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.InsInvoice.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.InventoryControl.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Journal.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.LabTest.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.livApply.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.LivAppr.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.LoginScreen.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.lpoAppr.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.MainSwitch.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.MedHistory.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.MedicalCover.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.medRegister.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.NewAccount.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.NewClientRegistration.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.LogonScreen.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.MainMenu.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.NursingHome.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.opdDischarge.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.opttest.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Orders.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.overTime.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.partSalary.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Paymt.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Properties.Resources.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.PurchaseDelivery.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.PurchaseOrder.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.RadTest.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.reconcile.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Reqappr.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Requisition.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.rfq.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.RoomFeatures.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.RoomSetup.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.runPayroll.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.salAdvance.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.sched.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Scorders.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.selfService.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ServiceDefine.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Specimen.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staff.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staffAllowance.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staffLoans.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staffSubs.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staffTrain.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.StockTransfer.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.succPlan.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ThreeCode.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.todayList.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.tranupdate.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Triage.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.userManagement.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.csproj.GenerateResource.Cache
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\WinTcare.exe
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\WinTcare.pdb
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\TclassLibrary.dll
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\TclassLibrary.pdb
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\WinTcare.exe.config
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.exe
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.pdb
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.csprojResolveAssemblyReference.cache
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Absence.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.accidents.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.acctEnquiry.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.acPay.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.acRec.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.AddRoomFeatures.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.app_q.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Apraisal.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Attendance.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.bioDetails.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.career.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.CheckIn.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.CheckOut.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.chgPassword.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Clearance.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ClientTransfer.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.closPayroll.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Consultation.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.CoverManagement.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.DeathConfirm.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.dependents.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.deposits.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Discipline.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.doctors.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.DrugDispense.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.employees.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.emplyee.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ExitService.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.glman.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.grievance.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.IndInvoice.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.InpatDischarge.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.InsInvoice.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.InventoryControl.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Journal.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.LabTest.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.livApply.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.LivAppr.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.LoginScreen.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.lpoAppr.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.MainSwitch.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.MedHistory.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.MedicalCover.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.medRegister.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.NewAccount.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.LogonScreen.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.MainMenu.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.NursingHome.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.OneCode.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.opdDischarge.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.opttest.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Orders.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.overTime.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.partSalary.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Paymt.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Properties.Resources.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.PurchaseDelivery.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.PurchaseOrder.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.RadTest.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.reconcile.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Reqappr.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Requisition.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.rfq.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.RoomFeatures.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.RoomSetup.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.runPayroll.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.salAdvance.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.sched.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Scorders.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.selfService.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ServiceDefine.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Specimen.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staff.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staffAllowance.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staffLoans.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staffSubs.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.staffTrain.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.StockTransfer.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.succPlan.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ThreeCode.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.todayList.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.tranupdate.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.Triage.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.TwoCode.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.userManagement.resources
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.csproj.GenerateResource.Cache
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\WinTcare.exe
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\WinTcare.pdb
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\TclassLibrary.dll
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\bin\Debug\TclassLibrary.pdb
+C:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.NewClientRegistration.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.spcselect.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.apraisaln.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.holidayn.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.trn_institute.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.alowance.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.othcontr.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.band.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.loans.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.ChartAcc.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.newfinperiod.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.branch.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.csprojResolveAssemblyReference.cache
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.bouquets.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.coversetup.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.FindClient.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.radtemplate.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.tbscreen.resources
+D:\Software Solutions\C# Applications\WinTcare 2019.03.13\WinTcare\obj\Debug\WinTcare.wardSelect.resources
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\bin\Debug\WinTcare.exe.config
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.exe
+D:\Software Solutions\C# Applications\CUsystem\WinTcare\obj\Debug\WinTcare.pdb

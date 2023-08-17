@@ -1,0 +1,451 @@
+C:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.dll
+C:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.pdb
+C:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dll
+C:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.pdb
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharpExtern.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.pdb
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Blob.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.CPlusPlus.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Extensions.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Gpu.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.MachineLearning.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.xml
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.xml
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.xml
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.xml
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.xml
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csprojResolveAssemblyReference.cache
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Absence.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.accidents.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acctEnquiry.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acPay.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acRec.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.addAcct.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.alowance.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.appRoval.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Apraisal.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Attendance.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bioDetails.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bnk.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Bonding.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.branch.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.career.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ChartAcc.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.chgPassword.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.closPayroll.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Company.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dashBoard.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.dependents.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Discipline.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.emplyee.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ExitService.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.FindClient.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.GenLedgerMgt.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.grievance.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.holidayn.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.InventoryControl.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Journal.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.livApply.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.LivAppr.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.loans.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.lpoAppr.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.myLocation.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.NewAccount.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.newfinperiod.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.onecode.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.othcontr.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.overTime.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.partSalary.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.PurchaseDelivery.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.PurchaseOrder.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.reconcile.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reqappr.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Requisition.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reversal.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.rfq.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.runPayroll.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.salAdvance.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffAllowance.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffLoans.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffSubs.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffTrain.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.StockTransfer.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.succPlan.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ThreeCode.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.tranupdate.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.trn_institute.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.twocode.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.userManagement.resources
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csproj.GenerateResource.Cache
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dll
+F:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.pdb
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharpExtern.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.pdb
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Blob.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Extensions.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Gpu.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.MachineLearning.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.xml
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.xml
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.xml
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.xml
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csprojResolveAssemblyReference.cache
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Absence.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.accidents.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acctEnquiry.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acPay.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acRec.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.addAcct.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.alowance.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.appRoval.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Apraisal.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Attendance.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bioDetails.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bnk.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Bonding.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.branch.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.career.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ChartAcc.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.chgPassword.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.closPayroll.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Company.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dashBoard.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.dependents.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Discipline.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.emplyee.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ExitService.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.FindClient.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.fixrbal.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.GenLedgerMgt.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.grievance.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.holidayn.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.InventoryControl.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Journal.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.livApply.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.LivAppr.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.loans.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.lpoAppr.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.myLocation.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.NewAccount.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.newfinperiod.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.onecode.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.othcontr.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.overTime.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.partSalary.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.PurchaseDelivery.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.PurchaseOrder.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.reconcile.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reqappr.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Requisition.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reversal.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.rfq.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.runPayroll.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.salAdvance.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffAllowance.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffLoans.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffSubs.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.StockTransfer.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.succPlan.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ThreeCode.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.tranupdate.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.trn_institute.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.twocode.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.userManagement.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.WebCam.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csproj.GenerateResource.Cache
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.pdb
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharpExtern.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.pdb
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Blob.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Gpu.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.MachineLearning.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csprojResolveAssemblyReference.cache
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Absence.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.accidents.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acctEnquiry.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acPay.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acRec.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.addAcct.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.alowance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.appRoval.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Apraisal.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Attendance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bioDetails.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bnk.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Bonding.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.branch.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.career.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ChartAcc.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.chgPassword.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.closPayroll.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Company.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dashBoard.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dependents.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Discipline.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.emplyee.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ExitService.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.FindClient.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.fixrbal.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.GenLedgerMgt.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.grievance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.holidayn.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.InventoryControl.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.JobDefinition.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Journal.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.livApply.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.LivAppr.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.lpoAppr.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.myLocation.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.NewAccount.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.newfinperiod.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.onecode.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.othcontr.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.overTime.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.partSalary.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.PayPara.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.procManagement.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.ProductDef.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.reconcile.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reqappr.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Requisition.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reversal.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.runPayroll.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.salAdvance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffAllowance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffLoans.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffSubs.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.StockTransfer.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.succPlan.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Suppliers.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.SysLoginScreen.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ThreeCode.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.training.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.tranupdate.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.trn_institute.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.twocode.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.userManagement.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.WebCam.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csproj.GenerateResource.Cache
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharpExtern.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\AForge.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Blob.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Gpu.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\AForge.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csprojResolveAssemblyReference.cache
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Absence.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.accidents.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acctEnquiry.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acPay.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acRec.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.addAcct.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.alowance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.appRoval.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Apraisal.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Attendance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bioDetails.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bnk.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Bonding.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.branch.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.career.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ChartAcc.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.chgPassword.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.closPayroll.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Company.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dashBoard.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dependents.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Discipline.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.emplyee.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ExitService.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.FindClient.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.fixrbal.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.GenLedgerMgt.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.grievance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.holidayn.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.InventoryControl.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.JobDefinition.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Journal.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.livApply.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.LivAppr.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.lpoAppr.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.myLocation.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.NewAccount.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.newfinperiod.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.onecode.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.othcontr.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.overTime.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.partSalary.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.PayPara.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.procManagement.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.ProductDef.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.reconcile.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reqappr.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Requisition.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reversal.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.runPayroll.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.salAdvance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffAllowance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffLoans.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffSubs.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.StockTransfer.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.succPlan.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Suppliers.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.SysLoginScreen.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ThreeCode.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.training.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.tranupdate.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.trn_institute.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.twocode.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.userManagement.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.WebCam.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csproj.GenerateResource.Cache
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharpExtern.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\AForge.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Blob.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.Gpu.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\AForge.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\AForge.Video.DirectShow.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\RestSharp.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csprojResolveAssemblyReference.cache
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Absence.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.accidents.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acctEnquiry.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acPay.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.acRec.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.addAcct.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.alowance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.appRoval.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Apraisal.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Attendance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bioDetails.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.bnk.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Bonding.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.branch.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.career.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ChartAcc.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.chgPassword.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.closPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Company.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dashBoard.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dependents.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Discipline.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.emplyee.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ExitService.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.FindClient.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.fixrbal.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.GenLedgerMgt.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.grievance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.holidayn.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.InventoryControl.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.JobDefinition.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Journal.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.livApply.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.LivAppr.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.lpoAppr.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.myLocation.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.NewAccount.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.newfinperiod.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.onecode.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.othcontr.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.overTime.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.partSalary.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.PayPara.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.procManagement.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.ProductDef.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.reconcile.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reqappr.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Requisition.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Reversal.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.runPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.salAdvance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffAllowance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffLoans.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.staffSubs.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.StockTransfer.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.succPlan.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.Suppliers.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.SysLoginScreen.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.ThreeCode.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.training.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.tranupdate.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.trn_institute.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.twocode.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\WinTcare.userManagement.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.WebCam.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.csproj.GenerateResource.Cache
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Debug\TclassLibrary.pdb

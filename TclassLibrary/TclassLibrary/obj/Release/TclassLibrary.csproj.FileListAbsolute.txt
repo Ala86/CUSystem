@@ -1,0 +1,631 @@
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.pdb
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.onecode.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.twocode.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csproj.GenerateResource.Cache
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dll
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.pdb
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.changePassword.resources
+E:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.chgPassword.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharpExtern.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.pdb
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\AForge.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Blob.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.DebuggerVisualizers.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Extensions.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Gpu.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.UserInterface.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\RestSharp.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\AForge.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\bin\Release\RestSharp.xml
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Absence.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.accidents.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acctEnquiry.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acPay.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acRec.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\WinTcare.addAcct.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.alowance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.appRoval.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Apraisal.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Attendance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bioDetails.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bnk.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Bonding.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\WinTcare.branch.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.career.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ChartAcc.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.chgPassword.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.closPayroll.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Company.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dashBoard.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dependents.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Discipline.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.emplyee.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ExitService.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.FindClient.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.fixrbal.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.GenLedgerMgt.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.grievance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.holidayn.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.InventoryControl.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.JobDefinition.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Journal.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.livApply.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.LivAppr.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.lpoAppr.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.myLocation.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.NewAccount.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.newfinperiod.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.onecode.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.othcontr.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.overTime.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.partSalary.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.PayPara.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.procManagement.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\WinTcare.ProductDef.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.reconcile.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reqappr.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Requisition.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reversal.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.runPayroll.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.salAdvance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffAllowance.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffLoans.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffSubs.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.StockTransfer.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.succPlan.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Suppliers.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.SysLoginScreen.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ThreeCode.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.training.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.tranupdate.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.trn_institute.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.twocode.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\WinTcare.userManagement.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.WebCam.resources
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csproj.GenerateResource.Cache
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dll
+D:\Software Solutions\C# Applications\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharpExtern.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\AForge.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Blob.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Extensions.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Gpu.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.MachineLearning.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\RestSharp.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\AForge.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\RestSharp.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Absence.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.accidents.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acctEnquiry.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acPay.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acRec.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\WinTcare.addAcct.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.alowance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.appRoval.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Apraisal.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Attendance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bioDetails.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bnk.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Bonding.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\WinTcare.branch.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.career.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ChartAcc.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.chgPassword.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.closPayroll.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Company.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dashBoard.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dependents.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Discipline.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.emplyee.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ExitService.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.FindClient.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.fixrbal.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.GenLedgerMgt.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.grievance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.holidayn.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.InventoryControl.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.JobDefinition.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Journal.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.livApply.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.LivAppr.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.lpoAppr.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.myLocation.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.NewAccount.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.newfinperiod.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.onecode.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.othcontr.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.overTime.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.partSalary.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.PayPara.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.procManagement.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\WinTcare.ProductDef.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.reconcile.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reqappr.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Requisition.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reversal.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.runPayroll.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.salAdvance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffAllowance.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffLoans.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffSubs.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.StockTransfer.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.succPlan.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Suppliers.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.SysLoginScreen.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ThreeCode.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.training.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.tranupdate.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.trn_institute.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.twocode.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\WinTcare.userManagement.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.WebCam.resources
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csproj.GenerateResource.Cache
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dll
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\ICCU_System\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csprojResolveAssemblyReference.cache
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharpExtern.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.pdb
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.Shared.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\FlashControlV71.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Blob.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.DebuggerVisualizers.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Extensions.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Gpu.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.UserInterface.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\RestSharp.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\ShockwaveFlashObjects.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\stdole.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.xml
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.xml
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.xml
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.xml
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\RestSharp.xml
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csprojResolveAssemblyReference.cache
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Absence.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.accidents.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acctEnquiry.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acPay.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acRec.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\WinTcare.addAcct.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.alowance.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.appRoval.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Apraisal.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Attendance.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bioDetails.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bnk.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Bonding.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.career.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ChartAcc.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.chgPassword.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.closPayroll.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Company.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dashBoard.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dependents.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Discipline.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.emplyee.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ExitService.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.FindClient.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.fixrbal.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Form2.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.GenLedgerMgt.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.grievance.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.holidayn.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.InventoryControl.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.JobDefinition.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Journal.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.livApply.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.lpoAppr.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.myLocation.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.NewAccount.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.newfinperiod.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.onecode.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.othcontr.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.overTime.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.partSalary.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.PayPara.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.procManagement.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\WinTcare.ProductDef.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.reconcile.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reqappr.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Requisition.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reversal.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.runPayroll.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.salAdvance.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffAllowance.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffLoans.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffSubs.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.StockTransfer.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.succPlan.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Suppliers.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ThreeCode.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.training.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.tranupdate.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.trn_institute.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.twocode.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\WinTcare.userManagement.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.WebCam.resources
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csproj.GenerateResource.Cache
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dll
+D:\Software Solutions\C# Applications\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharpExtern.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.Shared.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\FlashControlV71.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Blob.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Extensions.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Gpu.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.MachineLearning.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\RestSharp.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\ShockwaveFlashObjects.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\stdole.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\RestSharp.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Absence.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.accidents.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acctEnquiry.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acPay.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acRec.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\WinTcare.addAcct.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.alowance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.appRoval.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Apraisal.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Attendance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bioDetails.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bnk.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Bonding.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.career.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ChartAcc.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.chgPassword.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.closPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Company.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dashBoard.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dependents.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Discipline.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.emplyee.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ExitService.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.FindClient.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.fixrbal.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Form2.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.GenLedgerMgt.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.grievance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.holidayn.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.InventoryControl.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.JobDefinition.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Journal.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.livApply.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.lpoAppr.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.myLocation.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.NewAccount.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.newfinperiod.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.onecode.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.othcontr.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.overTime.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.partSalary.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.PayPara.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.procManagement.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\WinTcare.ProductDef.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.reconcile.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reqappr.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Requisition.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reversal.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.runPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.salAdvance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffAllowance.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffLoans.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffSubs.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.StockTransfer.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.succPlan.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Suppliers.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ThreeCode.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.training.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.tranupdate.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.trn_institute.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.twocode.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\WinTcare.userManagement.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.WebCam.resources
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csproj.GenerateResource.Cache
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dll
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\CUsystem\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csprojResolveAssemblyReference.cache
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharpExtern.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.Shared.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\FlashControlV71.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Blob.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.DebuggerVisualizers.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Extensions.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Gpu.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.MachineLearning.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\RestSharp.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\ShockwaveFlashObjects.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\stdole.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.xml
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.xml
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.xml
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\RestSharp.xml
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csprojResolveAssemblyReference.cache
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Absence.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.accidents.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acctEnquiry.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acPay.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acRec.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\WinTcare.addAcct.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.alowance.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.appRoval.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Apraisal.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Attendance.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bioDetails.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bnk.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Bonding.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.career.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ChartAcc.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.chgPassword.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.closPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Company.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dashBoard.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dependents.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Discipline.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.emplyee.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ExitService.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.FindClient.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.fixrbal.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Form2.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.GenLedgerMgt.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.grievance.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.holidayn.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.InventoryControl.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.JobDefinition.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Journal.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.livApply.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.lpoAppr.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.myLocation.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.NewAccount.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.newfinperiod.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.onecode.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.othcontr.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.overTime.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.partSalary.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.PayPara.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.procManagement.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\WinTcare.ProductDef.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.reconcile.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reqappr.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Requisition.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reversal.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.runPayroll.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.salAdvance.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffAllowance.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffLoans.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffSubs.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.StockTransfer.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.succPlan.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Suppliers.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ThreeCode.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.training.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.tranupdate.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.trn_institute.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.twocode.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\WinTcare.userManagement.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.WebCam.resources
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csproj.GenerateResource.Cache
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.pdb
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharpExtern.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\TclassLibrary.pdb
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.Shared.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\FlashControlV71.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Blob.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.CPlusPlus.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.DebuggerVisualizers.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Extensions.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.Gpu.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.MachineLearning.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\OpenCvSharp.UserInterface.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\RestSharp.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\ShockwaveFlashObjects.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\stdole.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.xml
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.xml
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\AForge.Video.DirectShow.xml
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Newtonsoft.Json.xml
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\RestSharp.xml
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csprojResolveAssemblyReference.cache
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Absence.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.accidents.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acctEnquiry.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acPay.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.acRec.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\WinTcare.addAcct.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.alowance.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.appRoval.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Apraisal.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Attendance.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bioDetails.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.bnk.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Bonding.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.career.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ChartAcc.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.chgPassword.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.closPayroll.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Company.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dashBoard.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dependents.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Discipline.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.emplyee.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ExitService.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.FindClient.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.fixrbal.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Form2.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.GenLedgerMgt.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.grievance.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.holidayn.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.InventoryControl.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.JobDefinition.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Journal.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.livApply.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.lpoAppr.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.myLocation.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.NewAccount.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.newfinperiod.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.onecode.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.othcontr.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.overTime.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.partSalary.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.PayPara.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.procManagement.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\WinTcare.ProductDef.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.reconcile.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reqappr.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Requisition.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Reversal.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.runPayroll.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.salAdvance.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffAllowance.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffLoans.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.staffSubs.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.StockTransfer.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.succPlan.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.Suppliers.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.ThreeCode.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.training.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.tranupdate.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.trn_institute.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.twocode.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\WinTcare.userManagement.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.WebCam.resources
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.csproj.GenerateResource.Cache
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\TclassLibrary.pdb
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Dapper.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Dapper.Transaction.dll
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Dapper.xml
+C:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Dapper.Transaction.xml
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Dapper.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Dapper.Transaction.dll
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Dapper.xml
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\bin\Release\Dapper.Transaction.xml
+D:\Software Solutions\NACCUG\CUsystem - Copy\TclassLibrary\TclassLibrary\obj\Release\WinTcare.AccountStatus.resources

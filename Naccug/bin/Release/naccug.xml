@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+    <gnCompid>30</gnCompid>
+    <gcComname>SOFORA</gcComname>
+    <gcServername>ITMANAGER</gcServername>
+    <gcsusername>sa</gcsusername>
+    <gcDatabaseName>NACCUGSoft_DATA</gcDatabaseName>
+    <gcspassword>Whatever4999!</gcspassword>  
+</Table>
+

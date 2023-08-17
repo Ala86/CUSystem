@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+
+ <GCMYSERVER>
+    <gnCompid>30</gnCompid>
+    <gcComname>SOF Remote</gcComname>
+    <gcServername>212.60.68.150,1433</gcServername>
+    <gcsusername>sa</gcsusername>
+    <gcDatabaseName>NA_SOFTEST001</gcDatabaseName>
+    <gcspassword>Whatever4999!</gcspassword>  
+  </GCMYSERVER>
+
+ <GCMYSERVER>
+    <gnCompid>30</gnCompid>
+    <gcComname>SOFORA CCU TEST</gcComname>
+    <gcServername>192.168.0.18</gcServername>
+    <gcsusername>sa</gcsusername>
+    <gcDatabaseName>NA_SOFTEST001</gcDatabaseName>
+    <gcspassword>Whatever4999!</gcspassword> 
+ </GCMYSERVER>
+
+ <GCMYSERVER>
+    <gnCompid>30</gnCompid>
+    <gcComname>SOFORA LIVE Local</gcComname>
+    <gcServername>192.168.0.18</gcServername>
+    <gcsusername>sa</gcsusername>
+    <gcDatabaseName>NA_SOF001</gcDatabaseName>
+    <gcspassword>Whatever4999!</gcspassword>  
+  </GCMYSERVER>
+
+ <GCMYSERVER>
+    <gnCompid>30</gnCompid>
+    <gcComname>CFF Test</gcComname>
+    <gcServername>192.168.0.18</gcServername>
+    <gcsusername>sa</gcsusername>
+    <gcDatabaseName>NA_CFFTEST001</gcDatabaseName>
+    <gcspassword>Whatever4999!</gcspassword>  
+  </GCMYSERVER>
+</Table>
+
