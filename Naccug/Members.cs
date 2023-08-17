@@ -853,7 +853,7 @@ namespace WinTcare
 
         private void IndSaveButton_Click(object sender, EventArgs e)
         {
-         //   using (TransactionScope scope = new TransactionScope())
+         //   This is insert !!!
          //   {
                 if (gcInputStat == "N")  //new member
                 {

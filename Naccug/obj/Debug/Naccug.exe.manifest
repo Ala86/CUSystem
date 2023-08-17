@@ -287,6 +287,30 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dapper.dll" size="192512">
+      <assemblyIdentity name="Dapper" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>G4pmLQvEFCHhjO1JKQdgogtE4rWT8bSVWLwxhTLQ0gg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dapper.Transaction.dll" size="18944">
+      <assemblyIdentity name="Dapper.Transaction" version="2.0.35.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>tZjorAi9l22q+J6zViV9kioM5BxjwcYnvwEZYUNOiuE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlashControlV71.dll" size="28672">
       <assemblyIdentity name="FlashControlV71" version="1.0.3187.32366" publicKeyToken="692FBEA5521E1304" language="neutral" />
       <hash>
@@ -335,14 +359,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Naccug.exe" size="23614976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Naccug.exe" size="24519168">
       <assemblyIdentity name="Naccug" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OHYyKwnslP/YxIZgUEvOqMrP/JUfXMZnOG0Zftq3uBI=</dsig:DigestValue>
+        <dsig:DigestValue>z0dpH/aXSTE7jHX9YRPek18XVaatTnL21kmqEpkEFn8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -443,14 +467,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TclassLibrary.dll" size="7955456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TclassLibrary.dll" size="7789568">
       <assemblyIdentity name="TclassLibrary" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CYZ9ny20Fv5PC9SkE7AqNcXqbpD0pG+RgPxqHrSHHfY=</dsig:DigestValue>
+        <dsig:DigestValue>9VMPL7XEUlplWqJ6F62aASg1FDDdEEDeYDLloUiO5GM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -466,13 +490,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Naccug.exe.config" size="2430">
+  <file name="Naccug.exe.config" size="3843">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>+CM85nB2ReGJPSXBVx6V3ECHuPr8zz1U6LWn95HG97c=</dsig:DigestValue>
+      <dsig:DigestValue>iiph6wdaZqGbY9zBuh3Fk+5HIkrU5hkbTYBHCoZ2fic=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\accounts2.jpg" size="24110">
